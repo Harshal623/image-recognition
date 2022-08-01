@@ -1,0 +1,27 @@
+body{
+    background-color: palevioletred;
+    color: blueviolet;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+.name_object{
+    color: aquamarine;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed maroon;
+}
+label{
+    font-size: 20px;
+    text-decoration: underline;
+    color: darkmagenta;
+}
+#result_name, #result_accuracy{
+    font-size: 20px;
+    color:darkslateblue
+}
